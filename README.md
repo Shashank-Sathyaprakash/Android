@@ -1,2 +1,3 @@
 # Dice_roller
-All the android apps built while learning android p development 
+Dice roller app the basic app for rolling two dice
+
